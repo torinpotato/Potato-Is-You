@@ -1,0 +1,10 @@
+[general]
+author=torinpotato
+name=Potato is You
+firstlevel=1level
+start=2level
+
+[levels]
+levelid=6
+rolling_levelid=6
+
